@@ -1,0 +1,632 @@
+{
+  "buildings": {
+    "watchtower": {
+      "file": "/game-assets/buildings/watchtower.png",
+      "size": [
+        372,
+        1364
+      ],
+      "source": "감시탑.png"
+    },
+    "workshop": {
+      "file": "/game-assets/buildings/workshop.png",
+      "size": [
+        1034,
+        876
+      ],
+      "source": "기계공방.png"
+    },
+    "farm": {
+      "file": "/game-assets/buildings/farm.png",
+      "size": [
+        1458,
+        522
+      ],
+      "source": "농장.png"
+    },
+    "smithy": {
+      "file": "/game-assets/buildings/smithy.png",
+      "size": [
+        1038,
+        916
+      ],
+      "source": "대장간.png"
+    },
+    "townhall": {
+      "file": "/game-assets/buildings/townhall.png",
+      "size": [
+        1108,
+        953
+      ],
+      "source": "마을회관.png"
+    },
+    "carpentry": {
+      "file": "/game-assets/buildings/carpentry.png",
+      "size": [
+        1046,
+        835
+      ],
+      "source": "목공소.png"
+    },
+    "logistics": {
+      "file": "/game-assets/buildings/logistics.png",
+      "size": [
+        1471,
+        595
+      ],
+      "source": "물류소.png"
+    },
+    "logging": {
+      "file": "/game-assets/buildings/logging.png",
+      "size": [
+        1156,
+        775
+      ],
+      "source": "벌목장.png"
+    },
+    "barracks": {
+      "file": "/game-assets/buildings/barracks.png",
+      "size": [
+        1065,
+        943
+      ],
+      "source": "병영.png"
+    },
+    "hospital": {
+      "file": "/game-assets/buildings/hospital.png",
+      "size": [
+        1077,
+        909
+      ],
+      "source": "병원.png"
+    },
+    "bakery": {
+      "file": "/game-assets/buildings/bakery.png",
+      "size": [
+        1029,
+        868
+      ],
+      "source": "빵집.png"
+    },
+    "market": {
+      "file": "/game-assets/buildings/market.png",
+      "size": [
+        976,
+        789
+      ],
+      "source": "시장.png"
+    },
+    "restaurant": {
+      "file": "/game-assets/buildings/restaurant.png",
+      "size": [
+        1126,
+        817
+      ],
+      "source": "식당.png"
+    },
+    "small-house": {
+      "file": "/game-assets/buildings/small-house.png",
+      "size": [
+        988,
+        832
+      ],
+      "source": "작은 주택.png"
+    },
+    "sawmill": {
+      "file": "/game-assets/buildings/sawmill.png",
+      "size": [
+        1093,
+        907
+      ],
+      "source": "제재소.png"
+    },
+    "tavern": {
+      "file": "/game-assets/buildings/tavern.png",
+      "size": [
+        1066,
+        829
+      ],
+      "source": "주점.png"
+    },
+    "warehouse": {
+      "file": "/game-assets/buildings/warehouse.png",
+      "size": [
+        1383,
+        692
+      ],
+      "source": "창고.png"
+    },
+    "cafe": {
+      "file": "/game-assets/buildings/cafe.png",
+      "size": [
+        1049,
+        925
+      ],
+      "source": "카페.png"
+    },
+    "large-house": {
+      "file": "/game-assets/buildings/large-house.png",
+      "size": [
+        1047,
+        877
+      ],
+      "source": "큰 주택.png"
+    }
+  },
+  "characters": {
+    "MINER": {
+      "file": "/game-assets/characters/miner.png",
+      "size": [
+        230,
+        240
+      ],
+      "sheet": "heroes"
+    },
+    "LUMBERJACK": {
+      "file": "/game-assets/characters/lumberjack.png",
+      "size": [
+        227,
+        246
+      ],
+      "sheet": "heroes"
+    },
+    "PORTER": {
+      "file": "/game-assets/characters/porter.png",
+      "size": [
+        284,
+        235
+      ],
+      "sheet": "heroes"
+    },
+    "BUILDER": {
+      "file": "/game-assets/characters/builder.png",
+      "size": [
+        235,
+        232
+      ],
+      "sheet": "heroes"
+    },
+    "FARMER": {
+      "file": "/game-assets/characters/farmer.png",
+      "size": [
+        289,
+        232
+      ],
+      "sheet": "heroes"
+    },
+    "SOLDIER": {
+      "file": "/game-assets/characters/soldier.png",
+      "size": [
+        235,
+        247
+      ],
+      "sheet": "heroes"
+    },
+    "SPEARMAN": {
+      "file": "/game-assets/characters/spearman.png",
+      "size": [
+        257,
+        211
+      ],
+      "sheet": "heroes"
+    },
+    "ARCHER": {
+      "file": "/game-assets/characters/archer.png",
+      "size": [
+        253,
+        243
+      ],
+      "sheet": "heroes"
+    },
+    "BLACKSMITH": {
+      "file": "/game-assets/characters/blacksmith.png",
+      "size": [
+        266,
+        219
+      ],
+      "sheet": "heroes"
+    },
+    "SCOUT": {
+      "file": "/game-assets/characters/scout.png",
+      "size": [
+        274,
+        286
+      ],
+      "sheet": "crew"
+    },
+    "MASON": {
+      "file": "/game-assets/characters/mason.png",
+      "size": [
+        299,
+        245
+      ],
+      "sheet": "crew"
+    },
+    "COOK": {
+      "file": "/game-assets/characters/cook.png",
+      "size": [
+        260,
+        317
+      ],
+      "sheet": "crew"
+    },
+    "FISHER": {
+      "file": "/game-assets/characters/fisher.png",
+      "size": [
+        267,
+        249
+      ],
+      "sheet": "crew"
+    },
+    "TAILOR": {
+      "file": "/game-assets/characters/tailor.png",
+      "size": [
+        279,
+        282
+      ],
+      "sheet": "crew"
+    },
+    "MERCHANT": {
+      "file": "/game-assets/characters/merchant.png",
+      "size": [
+        264,
+        254
+      ],
+      "sheet": "crew"
+    },
+    "GARDENER": {
+      "file": "/game-assets/characters/gardener.png",
+      "size": [
+        282,
+        263
+      ],
+      "sheet": "crew"
+    },
+    "HEALER": {
+      "file": "/game-assets/characters/healer.png",
+      "size": [
+        290,
+        262
+      ],
+      "sheet": "crew"
+    },
+    "ENGINEER": {
+      "file": "/game-assets/characters/engineer.png",
+      "size": [
+        258,
+        241
+      ],
+      "sheet": "crew"
+    },
+    "KNIGHT": {
+      "file": "/game-assets/characters/knight.png",
+      "size": [
+        258,
+        298
+      ],
+      "sheet": "guard"
+    },
+    "GUARD": {
+      "file": "/game-assets/characters/guard.png",
+      "size": [
+        247,
+        264
+      ],
+      "sheet": "guard"
+    },
+    "SLINGER": {
+      "file": "/game-assets/characters/slinger.png",
+      "size": [
+        273,
+        220
+      ],
+      "sheet": "guard"
+    },
+    "AXEMAN": {
+      "file": "/game-assets/characters/axeman.png",
+      "size": [
+        245,
+        262
+      ],
+      "sheet": "guard"
+    },
+    "CROSSBOW": {
+      "file": "/game-assets/characters/crossbow.png",
+      "size": [
+        250,
+        252
+      ],
+      "sheet": "guard"
+    },
+    "CAPTAIN": {
+      "file": "/game-assets/characters/captain.png",
+      "size": [
+        263,
+        279
+      ],
+      "sheet": "guard"
+    },
+    "SHIELDER": {
+      "file": "/game-assets/characters/shielder.png",
+      "size": [
+        246,
+        283
+      ],
+      "sheet": "guard"
+    },
+    "BANNER": {
+      "file": "/game-assets/characters/banner.png",
+      "size": [
+        265,
+        257
+      ],
+      "sheet": "guard"
+    },
+    "DRUMMER": {
+      "file": "/game-assets/characters/drummer.png",
+      "size": [
+        255,
+        286
+      ],
+      "sheet": "guard"
+    },
+    "BAKER": {
+      "file": "/game-assets/characters/baker.png",
+      "size": [
+        272,
+        298
+      ],
+      "sheet": "life"
+    },
+    "BREWER": {
+      "file": "/game-assets/characters/brewer.png",
+      "size": [
+        274,
+        252
+      ],
+      "sheet": "life"
+    },
+    "CARPENTER": {
+      "file": "/game-assets/characters/carpenter.png",
+      "size": [
+        289,
+        256
+      ],
+      "sheet": "life"
+    },
+    "MINSTREL": {
+      "file": "/game-assets/characters/minstrel.png",
+      "size": [
+        274,
+        272
+      ],
+      "sheet": "life"
+    },
+    "PRIEST": {
+      "file": "/game-assets/characters/priest.png",
+      "size": [
+        287,
+        265
+      ],
+      "sheet": "life"
+    },
+    "SCHOLAR": {
+      "file": "/game-assets/characters/scholar.png",
+      "size": [
+        274,
+        273
+      ],
+      "sheet": "life"
+    },
+    "HUNTER": {
+      "file": "/game-assets/characters/hunter.png",
+      "size": [
+        267,
+        262
+      ],
+      "sheet": "life"
+    },
+    "POTTER": {
+      "file": "/game-assets/characters/potter.png",
+      "size": [
+        286,
+        270
+      ],
+      "sheet": "life"
+    },
+    "INNKEEPER": {
+      "file": "/game-assets/characters/innkeeper.png",
+      "size": [
+        302,
+        265
+      ],
+      "sheet": "life"
+    }
+  },
+  "equipment": {
+    "sword": {
+      "file": "/game-assets/equipment/sword.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "검.png"
+    },
+    "pickaxe": {
+      "file": "/game-assets/equipment/pickaxe.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "곡괭이.png"
+    },
+    "guitar": {
+      "file": "/game-assets/equipment/guitar.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "기타.png"
+    },
+    "farming": {
+      "file": "/game-assets/equipment/farming.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "농사 장비.png"
+    },
+    "smith-hammer": {
+      "file": "/game-assets/equipment/smith-hammer.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "대장간 망치 (2).png"
+    },
+    "axe": {
+      "file": "/game-assets/equipment/axe.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "도끼.png"
+    },
+    "pottery": {
+      "file": "/game-assets/equipment/pottery.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "도자기.png"
+    },
+    "beer": {
+      "file": "/game-assets/equipment/beer.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "맥주(주점).png"
+    },
+    "wood": {
+      "file": "/game-assets/equipment/wood.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "목재.png"
+    },
+    "wood-hammer": {
+      "file": "/game-assets/equipment/wood-hammer.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "목재망치.png"
+    },
+    "shield": {
+      "file": "/game-assets/equipment/shield.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "방패.png"
+    },
+    "bread": {
+      "file": "/game-assets/equipment/bread.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "빵 제빵.png"
+    },
+    "lantern": {
+      "file": "/game-assets/equipment/lantern.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "전등.png"
+    },
+    "spear": {
+      "file": "/game-assets/equipment/spear.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "창.png"
+    },
+    "book": {
+      "file": "/game-assets/equipment/book.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "책.png"
+    },
+    "cross": {
+      "file": "/game-assets/equipment/cross.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "프리스트 십자가.png"
+    },
+    "bow": {
+      "file": "/game-assets/equipment/bow.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "source": "화살.png"
+    }
+  },
+  "terrain": {
+    "ground": {
+      "file": "/game-assets/terrain/ground.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "bbox": [
+        0,
+        413,
+        1536,
+        622
+      ],
+      "source": "바닥.png"
+    },
+    "decorations": {
+      "file": "/game-assets/terrain/decorations.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "bbox": [
+        121,
+        398,
+        1406,
+        635
+      ],
+      "source": "바닥 장식.png"
+    }
+  },
+  "audio": {
+    "bgm-clear": {
+      "file": "/game-assets/audio/bgm-clear.mp3",
+      "source": "게임음악.mp3"
+    },
+    "bgm-rain": {
+      "file": "/game-assets/audio/bgm-rain.mp3",
+      "source": "비오는날 음악.mp3"
+    },
+    "sfx-mine": {
+      "file": "/game-assets/audio/sfx-mine.mp3",
+      "source": "광물 케는소리.mp3"
+    },
+    "sfx-bell": {
+      "file": "/game-assets/audio/sfx-bell.mp3",
+      "source": "종소리(아침,저녁 알림).mp3"
+    }
+  }
+}

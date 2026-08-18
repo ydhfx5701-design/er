@@ -1,0 +1,1098 @@
+{
+  "jobs": 39,
+  "passed": true,
+  "assets": [
+    {
+      "jobId": "MINER",
+      "components": 27,
+      "body": {
+        "width": 213,
+        "height": 234,
+        "transparent": 13374,
+        "partial": 0,
+        "opaque": 36468,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1673,
+        "partial": 0,
+        "opaque": 1255,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1661,
+        "partial": 0,
+        "opaque": 1267,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "LUMBERJACK",
+      "components": 27,
+      "body": {
+        "width": 215,
+        "height": 234,
+        "transparent": 13204,
+        "partial": 0,
+        "opaque": 37106,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 62,
+        "height": 48,
+        "transparent": 1689,
+        "partial": 0,
+        "opaque": 1287,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 49,
+        "transparent": 1720,
+        "partial": 0,
+        "opaque": 1318,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "PORTER",
+      "components": 27,
+      "body": {
+        "width": 243,
+        "height": 229,
+        "transparent": 17346,
+        "partial": 0,
+        "opaque": 38301,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1682,
+        "partial": 0,
+        "opaque": 1246,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 48,
+        "transparent": 1702,
+        "partial": 0,
+        "opaque": 1274,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "BUILDER",
+      "components": 27,
+      "body": {
+        "width": 218,
+        "height": 239,
+        "transparent": 14751,
+        "partial": 0,
+        "opaque": 37351,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1703,
+        "partial": 0,
+        "opaque": 1225,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 48,
+        "transparent": 1727,
+        "partial": 0,
+        "opaque": 1249,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "FARMER",
+      "components": 27,
+      "body": {
+        "width": 263,
+        "height": 239,
+        "transparent": 22425,
+        "partial": 0,
+        "opaque": 40432,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1721,
+        "partial": 0,
+        "opaque": 1207,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 48,
+        "transparent": 1684,
+        "partial": 0,
+        "opaque": 1196,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "BLACKSMITH",
+      "components": 27,
+      "body": {
+        "width": 212,
+        "height": 237,
+        "transparent": 12373,
+        "partial": 0,
+        "opaque": 37871,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 60,
+        "height": 48,
+        "transparent": 1708,
+        "partial": 0,
+        "opaque": 1172,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 61,
+        "height": 48,
+        "transparent": 1728,
+        "partial": 0,
+        "opaque": 1200,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "MASON",
+      "components": 27,
+      "body": {
+        "width": 234,
+        "height": 234,
+        "transparent": 16303,
+        "partial": 0,
+        "opaque": 38453,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 60,
+        "height": 49,
+        "transparent": 1696,
+        "partial": 0,
+        "opaque": 1244,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 49,
+        "transparent": 1683,
+        "partial": 0,
+        "opaque": 1257,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "CARPENTER",
+      "components": 27,
+      "body": {
+        "width": 238,
+        "height": 235,
+        "transparent": 17413,
+        "partial": 0,
+        "opaque": 38517,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 60,
+        "height": 49,
+        "transparent": 1693,
+        "partial": 0,
+        "opaque": 1247,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 61,
+        "height": 49,
+        "transparent": 1736,
+        "partial": 0,
+        "opaque": 1253,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "ENGINEER",
+      "components": 27,
+      "body": {
+        "width": 220,
+        "height": 234,
+        "transparent": 14005,
+        "partial": 0,
+        "opaque": 37475,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 49,
+        "transparent": 1683,
+        "partial": 0,
+        "opaque": 1208,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 61,
+        "height": 49,
+        "transparent": 1709,
+        "partial": 0,
+        "opaque": 1280,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "COOK",
+      "components": 27,
+      "body": {
+        "width": 224,
+        "height": 267,
+        "transparent": 14703,
+        "partial": 0,
+        "opaque": 45105,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1417,
+        "partial": 0,
+        "opaque": 838,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1405,
+        "partial": 0,
+        "opaque": 850,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "BAKER",
+      "components": 27,
+      "body": {
+        "width": 265,
+        "height": 251,
+        "transparent": 19050,
+        "partial": 0,
+        "opaque": 47465,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 42,
+        "transparent": 1467,
+        "partial": 0,
+        "opaque": 843,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1410,
+        "partial": 0,
+        "opaque": 845,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "BREWER",
+      "components": 27,
+      "body": {
+        "width": 254,
+        "height": 256,
+        "transparent": 19351,
+        "partial": 0,
+        "opaque": 45673,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 56,
+        "height": 41,
+        "transparent": 1443,
+        "partial": 0,
+        "opaque": 853,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1417,
+        "partial": 0,
+        "opaque": 838,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "FISHER",
+      "components": 27,
+      "body": {
+        "width": 227,
+        "height": 242,
+        "transparent": 14005,
+        "partial": 0,
+        "opaque": 40929,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1416,
+        "partial": 0,
+        "opaque": 839,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1422,
+        "partial": 0,
+        "opaque": 833,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "MERCHANT",
+      "components": 27,
+      "body": {
+        "width": 234,
+        "height": 240,
+        "transparent": 15381,
+        "partial": 0,
+        "opaque": 40779,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1429,
+        "partial": 0,
+        "opaque": 826,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1408,
+        "partial": 0,
+        "opaque": 847,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "TAILOR",
+      "components": 27,
+      "body": {
+        "width": 259,
+        "height": 235,
+        "transparent": 19415,
+        "partial": 0,
+        "opaque": 41450,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1417,
+        "partial": 0,
+        "opaque": 838,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1413,
+        "partial": 0,
+        "opaque": 842,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "GARDENER",
+      "components": 27,
+      "body": {
+        "width": 271,
+        "height": 247,
+        "transparent": 23529,
+        "partial": 0,
+        "opaque": 43408,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 57,
+        "height": 42,
+        "transparent": 1513,
+        "partial": 0,
+        "opaque": 881,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1403,
+        "partial": 0,
+        "opaque": 852,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "HEALER",
+      "components": 27,
+      "body": {
+        "width": 245,
+        "height": 245,
+        "transparent": 17243,
+        "partial": 0,
+        "opaque": 42782,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 56,
+        "height": 42,
+        "transparent": 1493,
+        "partial": 0,
+        "opaque": 859,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 42,
+        "transparent": 1463,
+        "partial": 0,
+        "opaque": 847,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "MINSTREL",
+      "components": 27,
+      "body": {
+        "width": 267,
+        "height": 241,
+        "transparent": 20449,
+        "partial": 0,
+        "opaque": 43898,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 55,
+        "height": 42,
+        "transparent": 1455,
+        "partial": 0,
+        "opaque": 855,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 55,
+        "height": 41,
+        "transparent": 1414,
+        "partial": 0,
+        "opaque": 841,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "PRIEST",
+      "components": 18,
+      "body": {
+        "width": 279,
+        "height": 300,
+        "transparent": 25365,
+        "partial": 0,
+        "opaque": 58335,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1814,
+        "partial": 0,
+        "opaque": 1436,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1802,
+        "partial": 0,
+        "opaque": 1448,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SCHOLAR",
+      "components": 18,
+      "body": {
+        "width": 274,
+        "height": 283,
+        "transparent": 23259,
+        "partial": 0,
+        "opaque": 54283,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 65,
+        "height": 49,
+        "transparent": 1752,
+        "partial": 0,
+        "opaque": 1433,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 65,
+        "height": 49,
+        "transparent": 1754,
+        "partial": 0,
+        "opaque": 1431,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "HUNTER",
+      "components": 18,
+      "body": {
+        "width": 266,
+        "height": 292,
+        "transparent": 22059,
+        "partial": 0,
+        "opaque": 55613,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1831,
+        "partial": 0,
+        "opaque": 1419,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1795,
+        "partial": 0,
+        "opaque": 1455,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "POTTER",
+      "components": 18,
+      "body": {
+        "width": 273,
+        "height": 263,
+        "transparent": 21730,
+        "partial": 0,
+        "opaque": 50069,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1818,
+        "partial": 0,
+        "opaque": 1432,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 65,
+        "height": 50,
+        "transparent": 1816,
+        "partial": 0,
+        "opaque": 1434,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "INNKEEPER",
+      "components": 18,
+      "body": {
+        "width": 255,
+        "height": 273,
+        "transparent": 17996,
+        "partial": 0,
+        "opaque": 51619,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 65,
+        "height": 49,
+        "transparent": 1777,
+        "partial": 0,
+        "opaque": 1408,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 66,
+        "height": 50,
+        "transparent": 1875,
+        "partial": 0,
+        "opaque": 1425,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SOLDIER",
+      "components": 27,
+      "body": {
+        "width": 228,
+        "height": 256,
+        "transparent": 15745,
+        "partial": 0,
+        "opaque": 42623,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 63,
+        "height": 47,
+        "transparent": 1712,
+        "partial": 0,
+        "opaque": 1249,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 47,
+        "transparent": 1666,
+        "partial": 0,
+        "opaque": 1248,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SPEARMAN",
+      "components": 27,
+      "body": {
+        "width": 212,
+        "height": 266,
+        "transparent": 17639,
+        "partial": 0,
+        "opaque": 38753,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1560,
+        "partial": 0,
+        "opaque": 1095,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 59,
+        "height": 46,
+        "transparent": 1600,
+        "partial": 0,
+        "opaque": 1114,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "ARCHER",
+      "components": 27,
+      "body": {
+        "width": 253,
+        "height": 249,
+        "transparent": 19256,
+        "partial": 0,
+        "opaque": 43741,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1560,
+        "partial": 0,
+        "opaque": 1095,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1556,
+        "partial": 0,
+        "opaque": 1099,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SCOUT",
+      "components": 27,
+      "body": {
+        "width": 246,
+        "height": 239,
+        "transparent": 18374,
+        "partial": 0,
+        "opaque": 40420,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1555,
+        "partial": 0,
+        "opaque": 1100,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1590,
+        "partial": 0,
+        "opaque": 1110,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "KNIGHT",
+      "components": 27,
+      "body": {
+        "width": 233,
+        "height": 254,
+        "transparent": 16699,
+        "partial": 0,
+        "opaque": 42483,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1597,
+        "partial": 0,
+        "opaque": 1103,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1588,
+        "partial": 0,
+        "opaque": 1112,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "GUARD",
+      "components": 27,
+      "body": {
+        "width": 220,
+        "height": 239,
+        "transparent": 14263,
+        "partial": 0,
+        "opaque": 38317,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1604,
+        "partial": 0,
+        "opaque": 1096,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1601,
+        "partial": 0,
+        "opaque": 1099,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SLINGER",
+      "components": 27,
+      "body": {
+        "width": 241,
+        "height": 222,
+        "transparent": 16921,
+        "partial": 0,
+        "opaque": 36581,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1572,
+        "partial": 0,
+        "opaque": 1083,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 60,
+        "height": 45,
+        "transparent": 1616,
+        "partial": 0,
+        "opaque": 1084,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "AXEMAN",
+      "components": 27,
+      "body": {
+        "width": 214,
+        "height": 222,
+        "transparent": 12684,
+        "partial": 0,
+        "opaque": 34824,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1593,
+        "partial": 0,
+        "opaque": 1062,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 59,
+        "height": 45,
+        "transparent": 1598,
+        "partial": 0,
+        "opaque": 1057,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "CROSSBOW",
+      "components": 27,
+      "body": {
+        "width": 246,
+        "height": 221,
+        "transparent": 17304,
+        "partial": 0,
+        "opaque": 37062,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 59,
+        "height": 44,
+        "transparent": 1539,
+        "partial": 0,
+        "opaque": 1057,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 59,
+        "height": 44,
+        "transparent": 1545,
+        "partial": 0,
+        "opaque": 1051,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "CAPTAIN",
+      "components": 12,
+      "body": {
+        "width": 339,
+        "height": 405,
+        "transparent": 41249,
+        "partial": 0,
+        "opaque": 96046,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 77,
+        "height": 49,
+        "transparent": 1933,
+        "partial": 0,
+        "opaque": 1840,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 78,
+        "height": 49,
+        "transparent": 1974,
+        "partial": 0,
+        "opaque": 1848,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "SHIELDER",
+      "components": 12,
+      "body": {
+        "width": 349,
+        "height": 398,
+        "transparent": 46861,
+        "partial": 0,
+        "opaque": 92041,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 77,
+        "height": 48,
+        "transparent": 1896,
+        "partial": 0,
+        "opaque": 1800,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 77,
+        "height": 48,
+        "transparent": 1914,
+        "partial": 0,
+        "opaque": 1782,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "BANNER",
+      "components": 12,
+      "body": {
+        "width": 353,
+        "height": 365,
+        "transparent": 38095,
+        "partial": 0,
+        "opaque": 90750,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 77,
+        "height": 48,
+        "transparent": 1889,
+        "partial": 0,
+        "opaque": 1807,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 79,
+        "height": 49,
+        "transparent": 2027,
+        "partial": 0,
+        "opaque": 1844,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "DRUMMER",
+      "components": 12,
+      "body": {
+        "width": 364,
+        "height": 317,
+        "transparent": 34330,
+        "partial": 0,
+        "opaque": 81058,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 78,
+        "height": 48,
+        "transparent": 1910,
+        "partial": 0,
+        "opaque": 1834,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 78,
+        "height": 49,
+        "transparent": 2000,
+        "partial": 0,
+        "opaque": 1822,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "ARTILLERY",
+      "components": 1,
+      "body": {
+        "width": 790,
+        "height": 907,
+        "transparent": 301728,
+        "partial": 0,
+        "opaque": 414802,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 63,
+        "height": 47,
+        "transparent": 1712,
+        "partial": 0,
+        "opaque": 1249,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 47,
+        "transparent": 1666,
+        "partial": 0,
+        "opaque": 1248,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "CAVALRY",
+      "components": 1,
+      "body": {
+        "width": 534,
+        "height": 587,
+        "transparent": 142400,
+        "partial": 0,
+        "opaque": 171058,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 63,
+        "height": 47,
+        "transparent": 1712,
+        "partial": 0,
+        "opaque": 1249,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 47,
+        "transparent": 1666,
+        "partial": 0,
+        "opaque": 1248,
+        "borderAlpha": 0
+      }
+    },
+    {
+      "jobId": "ARMORED_CAVALRY",
+      "components": 1,
+      "body": {
+        "width": 543,
+        "height": 588,
+        "transparent": 139067,
+        "partial": 0,
+        "opaque": 180217,
+        "borderAlpha": 0
+      },
+      "leftFoot": {
+        "width": 63,
+        "height": 47,
+        "transparent": 1712,
+        "partial": 0,
+        "opaque": 1249,
+        "borderAlpha": 0
+      },
+      "rightFoot": {
+        "width": 62,
+        "height": 47,
+        "transparent": 1666,
+        "partial": 0,
+        "opaque": 1248,
+        "borderAlpha": 0
+      }
+    }
+  ]
+}

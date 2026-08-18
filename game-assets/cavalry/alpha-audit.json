@@ -1,0 +1,58 @@
+{
+  "normal-run-1.png": {
+    "width": 574,
+    "height": 605,
+    "transparent": 168383,
+    "partial": 0,
+    "opaque": 178887,
+    "borderAlpha": 0
+  },
+  "armored-run-1.png": {
+    "width": 590,
+    "height": 602,
+    "transparent": 168881,
+    "partial": 0,
+    "opaque": 186299,
+    "borderAlpha": 0
+  },
+  "normal-run-2.png": {
+    "width": 534,
+    "height": 587,
+    "transparent": 142400,
+    "partial": 0,
+    "opaque": 171058,
+    "borderAlpha": 0
+  },
+  "armored-run-2.png": {
+    "width": 543,
+    "height": 588,
+    "transparent": 139067,
+    "partial": 0,
+    "opaque": 180217,
+    "borderAlpha": 0
+  },
+  "lance.png": {
+    "width": 1262,
+    "height": 161,
+    "transparent": 115385,
+    "partial": 0,
+    "opaque": 87797,
+    "borderAlpha": 0
+  },
+  "cavalry-body.png": {
+    "width": 534,
+    "height": 587,
+    "transparent": 142400,
+    "partial": 0,
+    "opaque": 171058,
+    "borderAlpha": 0
+  },
+  "armored-cavalry-body.png": {
+    "width": 543,
+    "height": 588,
+    "transparent": 139067,
+    "partial": 0,
+    "opaque": 180217,
+    "borderAlpha": 0
+  }
+}

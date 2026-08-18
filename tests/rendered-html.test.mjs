@@ -103,8 +103,8 @@ test("keeps the sprite-rig village, surface quarry, combat, and spatial mining a
   assert.match(page, /sfx-mine\.mp3/);
   assert.match(page, /Math\.pow\(clamp\(1-dist\/1850,0,1\),1\.35\)/);
   assert.match(page, /\(event\.type==="mine"\|\|event\.type==="cannon"\)&&dist>1850/);
-  assert.match(page, /clear:new Audio\("\/game-assets\/audio\/bgm-clear\.mp3"\)/);
-  assert.match(page, /rain:new Audio\("\/game-assets\/audio\/bgm-rain\.mp3"\)/);
+  assert.match(page, /clear:new Audio\(assetUrl\("game-assets\/audio\/bgm-clear\.mp3"\)\)/);
+  assert.match(page, /rain:new Audio\(assetUrl\("game-assets\/audio\/bgm-rain\.mp3"\)\)/);
   assert.match(page, /function balanceHomes/);
   assert.match(page, /function raidTypesForDay/);
   assert.match(page, /function triggerDailyEvents/);
@@ -282,8 +282,8 @@ test("adds right-side miners, bounded artillery shard piles, and exact physical 
   assert.match(page, /for\(let item=0;item<count;item\+\+\)/);
   assert.match(page, /function drawQuarryPixelBlock/);
   assert.doesNotMatch(page, /ctx\.fillRect\(x-1,y-1,s\+2,s\+2\)/);
-  assert.match(page, /\/game-assets\/artillery\/fire\.png/);
-  assert.match(page, /\/game-assets\/artillery\/cannon\.mp3/);
+  assert.match(page, /assetUrl\("game-assets\/artillery\/fire\.png"\)/);
+  assert.match(page, /assetUrl\("game-assets\/artillery\/cannon\.mp3"\)/);
   assert.match(page, /assetsRef\.current\.explosions=explosions/);
   assert.match(page, /if\(!isArtillery&&!isMounted\)\{ctx\.drawImage\(rig\.leftFoot/);
   assert.match(page, /bodyH=\(isArtillery\?42:isMounted\?40:CHARACTER_RIG\.bodyHeight\)\*unit/);

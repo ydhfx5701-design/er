@@ -8,11 +8,13 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "build:pages": "node scripts/build-github-pages.mjs",
     "start": "vinext start",
     "test": "pnpm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
   },
+  "packageManager": "pnpm@11.19.0",
   "dependencies": {
     "drizzle-orm": "0.45.2",
     "react": "19.2.6",
