@@ -1,0 +1,272 @@
+[
+  {
+    "source": "감시탑.png",
+    "target": "watchtower.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      377,
+      919
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 46205,
+    "opaquePixels": 300258
+  },
+  {
+    "source": "기계 공방.png",
+    "target": "workshop.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      830,
+      683
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 45181,
+    "opaquePixels": 521709
+  },
+  {
+    "source": "농장.png",
+    "target": "farm.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      1021,
+      394
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 152113,
+    "opaquePixels": 250161
+  },
+  {
+    "source": "대장간.png",
+    "target": "smithy.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      819,
+      551
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 37557,
+    "opaquePixels": 413712
+  },
+  {
+    "source": "마을회관.png",
+    "target": "townhall.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      963,
+      607
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 115490,
+    "opaquePixels": 469051
+  },
+  {
+    "source": "목공소.png",
+    "target": "carpentry.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      910,
+      657
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 49137,
+    "opaquePixels": 548733
+  },
+  {
+    "source": "물류소.png",
+    "target": "logistics.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      975,
+      426
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 46253,
+    "opaquePixels": 369097
+  },
+  {
+    "source": "벌목장.png",
+    "target": "logging.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      924,
+      670
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 60658,
+    "opaquePixels": 558422
+  },
+  {
+    "source": "병영.png",
+    "target": "barracks.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      877,
+      570
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 36870,
+    "opaquePixels": 463020
+  },
+  {
+    "source": "병원.png",
+    "target": "hospital.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      868,
+      591
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 45277,
+    "opaquePixels": 467711
+  },
+  {
+    "source": "빵집.png",
+    "target": "bakery.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      886,
+      623
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 92219,
+    "opaquePixels": 459759
+  },
+  {
+    "source": "시장.png",
+    "target": "market.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      827,
+      697
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 43523,
+    "opaquePixels": 532896
+  },
+  {
+    "source": "식당.png",
+    "target": "restaurant.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      901,
+      743
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 52241,
+    "opaquePixels": 617202
+  },
+  {
+    "source": "제재소.png",
+    "target": "sawmill.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      865,
+      543
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 35081,
+    "opaquePixels": 434614
+  },
+  {
+    "source": "주점.png",
+    "target": "tavern.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      948,
+      619
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 102243,
+    "opaquePixels": 484569
+  },
+  {
+    "source": "창고.png",
+    "target": "warehouse.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      976,
+      592
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 49123,
+    "opaquePixels": 528669
+  },
+  {
+    "source": "카페.png",
+    "target": "cafe.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      886,
+      672
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 39385,
+    "opaquePixels": 556007
+  },
+  {
+    "source": "큰 주택.png",
+    "target": "large-house.png",
+    "sourceSize": [
+      1024,
+      1024
+    ],
+    "outputSize": [
+      936,
+      735
+    ],
+    "mode": "RGBA",
+    "transparentPixels": 48090,
+    "opaquePixels": 639870
+  }
+]

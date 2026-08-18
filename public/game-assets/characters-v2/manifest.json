@@ -1,0 +1,197 @@
+{
+  "MINER": {
+    "body": "/game-assets/characters-v2/miner/body.png",
+    "leftFoot": "/game-assets/characters-v2/miner/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/miner/right-foot.png"
+  },
+  "LUMBERJACK": {
+    "body": "/game-assets/characters-v2/lumberjack/body.png",
+    "leftFoot": "/game-assets/characters-v2/lumberjack/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/lumberjack/right-foot.png"
+  },
+  "PORTER": {
+    "body": "/game-assets/characters-v2/porter/body.png",
+    "leftFoot": "/game-assets/characters-v2/porter/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/porter/right-foot.png"
+  },
+  "BUILDER": {
+    "body": "/game-assets/characters-v2/builder/body.png",
+    "leftFoot": "/game-assets/characters-v2/builder/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/builder/right-foot.png"
+  },
+  "FARMER": {
+    "body": "/game-assets/characters-v2/farmer/body.png",
+    "leftFoot": "/game-assets/characters-v2/farmer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/farmer/right-foot.png"
+  },
+  "BLACKSMITH": {
+    "body": "/game-assets/characters-v2/blacksmith/body.png",
+    "leftFoot": "/game-assets/characters-v2/blacksmith/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/blacksmith/right-foot.png"
+  },
+  "MASON": {
+    "body": "/game-assets/characters-v2/mason/body.png",
+    "leftFoot": "/game-assets/characters-v2/mason/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/mason/right-foot.png"
+  },
+  "CARPENTER": {
+    "body": "/game-assets/characters-v2/carpenter/body.png",
+    "leftFoot": "/game-assets/characters-v2/carpenter/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/carpenter/right-foot.png"
+  },
+  "ENGINEER": {
+    "body": "/game-assets/characters-v2/engineer/body.png",
+    "leftFoot": "/game-assets/characters-v2/engineer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/engineer/right-foot.png"
+  },
+  "COOK": {
+    "body": "/game-assets/characters-v2/cook/body.png",
+    "leftFoot": "/game-assets/characters-v2/cook/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/cook/right-foot.png"
+  },
+  "BAKER": {
+    "body": "/game-assets/characters-v2/baker/body.png",
+    "leftFoot": "/game-assets/characters-v2/baker/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/baker/right-foot.png"
+  },
+  "BREWER": {
+    "body": "/game-assets/characters-v2/brewer/body.png",
+    "leftFoot": "/game-assets/characters-v2/brewer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/brewer/right-foot.png"
+  },
+  "FISHER": {
+    "body": "/game-assets/characters-v2/fisher/body.png",
+    "leftFoot": "/game-assets/characters-v2/fisher/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/fisher/right-foot.png"
+  },
+  "MERCHANT": {
+    "body": "/game-assets/characters-v2/merchant/body.png",
+    "leftFoot": "/game-assets/characters-v2/merchant/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/merchant/right-foot.png"
+  },
+  "TAILOR": {
+    "body": "/game-assets/characters-v2/tailor/body.png",
+    "leftFoot": "/game-assets/characters-v2/tailor/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/tailor/right-foot.png"
+  },
+  "GARDENER": {
+    "body": "/game-assets/characters-v2/gardener/body.png",
+    "leftFoot": "/game-assets/characters-v2/gardener/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/gardener/right-foot.png"
+  },
+  "HEALER": {
+    "body": "/game-assets/characters-v2/healer/body.png",
+    "leftFoot": "/game-assets/characters-v2/healer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/healer/right-foot.png"
+  },
+  "MINSTREL": {
+    "body": "/game-assets/characters-v2/minstrel/body.png",
+    "leftFoot": "/game-assets/characters-v2/minstrel/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/minstrel/right-foot.png"
+  },
+  "PRIEST": {
+    "body": "/game-assets/characters-v2/priest/body.png",
+    "leftFoot": "/game-assets/characters-v2/priest/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/priest/right-foot.png"
+  },
+  "SCHOLAR": {
+    "body": "/game-assets/characters-v2/scholar/body.png",
+    "leftFoot": "/game-assets/characters-v2/scholar/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/scholar/right-foot.png"
+  },
+  "HUNTER": {
+    "body": "/game-assets/characters-v2/hunter/body.png",
+    "leftFoot": "/game-assets/characters-v2/hunter/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/hunter/right-foot.png"
+  },
+  "POTTER": {
+    "body": "/game-assets/characters-v2/potter/body.png",
+    "leftFoot": "/game-assets/characters-v2/potter/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/potter/right-foot.png"
+  },
+  "INNKEEPER": {
+    "body": "/game-assets/characters-v2/innkeeper/body.png",
+    "leftFoot": "/game-assets/characters-v2/innkeeper/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/innkeeper/right-foot.png"
+  },
+  "SOLDIER": {
+    "body": "/game-assets/characters-v2/soldier/body.png",
+    "leftFoot": "/game-assets/characters-v2/soldier/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/soldier/right-foot.png"
+  },
+  "SPEARMAN": {
+    "body": "/game-assets/characters-v2/spearman/body.png",
+    "leftFoot": "/game-assets/characters-v2/spearman/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/spearman/right-foot.png"
+  },
+  "ARCHER": {
+    "body": "/game-assets/characters-v2/archer/body.png",
+    "leftFoot": "/game-assets/characters-v2/archer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/archer/right-foot.png"
+  },
+  "SCOUT": {
+    "body": "/game-assets/characters-v2/scout/body.png",
+    "leftFoot": "/game-assets/characters-v2/scout/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/scout/right-foot.png"
+  },
+  "KNIGHT": {
+    "body": "/game-assets/characters-v2/knight/body.png",
+    "leftFoot": "/game-assets/characters-v2/knight/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/knight/right-foot.png"
+  },
+  "GUARD": {
+    "body": "/game-assets/characters-v2/guard/body.png",
+    "leftFoot": "/game-assets/characters-v2/guard/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/guard/right-foot.png"
+  },
+  "SLINGER": {
+    "body": "/game-assets/characters-v2/slinger/body.png",
+    "leftFoot": "/game-assets/characters-v2/slinger/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/slinger/right-foot.png"
+  },
+  "AXEMAN": {
+    "body": "/game-assets/characters-v2/axeman/body.png",
+    "leftFoot": "/game-assets/characters-v2/axeman/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/axeman/right-foot.png"
+  },
+  "CROSSBOW": {
+    "body": "/game-assets/characters-v2/crossbow/body.png",
+    "leftFoot": "/game-assets/characters-v2/crossbow/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/crossbow/right-foot.png"
+  },
+  "CAPTAIN": {
+    "body": "/game-assets/characters-v2/captain/body.png",
+    "leftFoot": "/game-assets/characters-v2/captain/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/captain/right-foot.png"
+  },
+  "SHIELDER": {
+    "body": "/game-assets/characters-v2/shielder/body.png",
+    "leftFoot": "/game-assets/characters-v2/shielder/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/shielder/right-foot.png"
+  },
+  "BANNER": {
+    "body": "/game-assets/characters-v2/banner/body.png",
+    "leftFoot": "/game-assets/characters-v2/banner/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/banner/right-foot.png"
+  },
+  "DRUMMER": {
+    "body": "/game-assets/characters-v2/drummer/body.png",
+    "leftFoot": "/game-assets/characters-v2/drummer/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/drummer/right-foot.png"
+  },
+  "ARTILLERY": {
+    "body": "/game-assets/characters-v2/artillery/body.png",
+    "leftFoot": "/game-assets/characters-v2/artillery/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/artillery/right-foot.png"
+  },
+  "CAVALRY": {
+    "body": "/game-assets/characters-v2/cavalry/body.png",
+    "leftFoot": "/game-assets/characters-v2/cavalry/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/cavalry/right-foot.png"
+  },
+  "ARMORED_CAVALRY": {
+    "body": "/game-assets/characters-v2/armored-cavalry/body.png",
+    "leftFoot": "/game-assets/characters-v2/armored-cavalry/left-foot.png",
+    "rightFoot": "/game-assets/characters-v2/armored-cavalry/right-foot.png"
+  }
+}
